@@ -23,6 +23,8 @@ Looking at the above statistical anaysis, 3 points regarding the two months shou
 
 ## Summary
 
-abc
+Analyzing the two months shows the average temperature for Oahu stays relatively the same throughout the year. The maximum temperatures recorded also seem to be within one standard deviation of each other suggesting it is reasonable to expect the maximum temperature to reach between 83 and 85 degrees F at any point in the year. The largest difference in temperature was found in the recordings for the minimum temperature. With December recording 56 degrees F as a minimum and June recording 64 degrees F as a minumum, it is reasonable to expect that there will be less surf and ice cream sales in December on the days where the temperature drops the lowest.
 
-/
+However, it may be beneficial to perform at least two more data parsing searches for a better understanding of where the optimal location for the surf and ice cream shop would be:
+1. A query that isolated exactly what station on the island recorded what temperatures on what days might allow for the selection of a shop location where the temperature remained closer to the average temperature for the entire island throughout the year.
+2. It may be of some benefit to query the precipitation data for each station as well as the temperature that station recorded in June and December to determine the likelihood of having warmer weather with rainfall vs. colder weather with rainfall and how that realates to possible shop locations.
