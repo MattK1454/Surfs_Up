@@ -7,7 +7,7 @@ In order to expand our understanding of the overall climate variance and weather
 
 ## Results
 
-abc
+![June temperature stats]()
 
 ## Summary
 
