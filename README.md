@@ -11,7 +11,7 @@ In order to expand our understanding of the overall climate variance and weather
 
 Above is a statistical analysis of the June temperature readings for Oahu.
 
-![December temperature stats]()
+![December temperature stats](https://github.com/MattK1454/Surfs_Up/blob/main/December_temp_stats.png)
 
 Above is a statistical analysis of the December temperature readings for Oahu.
 
