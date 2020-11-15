@@ -19,7 +19,7 @@ Looking at the above statistical anaysis, 3 points regarding the two months shou
 
 * The June temperatures analysis was conducted on 1700 samples where as Decembers data contains 1517 sample points. This suggests that June's statistical analysis will be more accurate.
 * The average temperature in June was 74.94 degrees Fahrenheit where as December's average temperature was 71.04 degrees Fahrenheit. This is a difference of 3.9 degress F in average temperture over the year.
-*
+* The largest difference between the two months can be found in the measure of the minimum temperature. In June, Oahu's minimum temperature was recorded to be 64 degrees F. In December, Oahu's minimum temperature was recorded to be 56 degrees F. This difference of 8 degrees represents the largest swing in temperature between the two months.
 
 ## Summary
 
