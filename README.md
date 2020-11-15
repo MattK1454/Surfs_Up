@@ -15,7 +15,14 @@ Above is a statistical analysis of the June temperature readings for Oahu.
 
 Above is a statistical analysis of the December temperature readings for Oahu.
 
+Looking at the above statistical anaysis, 3 points regarding the two months should be addressed:
+
+* The June temperatures analysis was conducted on 1700 samples where as Decembers data contains 1517 sample points. This suggests that June's statistical analysis will be more accurate.
+* The average temperature in June was 74.94 degrees Fahrenheit where as December's average temperature was 71.04 degrees Fahrenheit. This is a difference of 3.9 degress F in average temperture over the year.
+*
+
 ## Summary
 
 abc
 
+/
